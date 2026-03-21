@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the shopping behavior of customers based on the **Customer Shopping Behavior** dataset with 3,900 data rows. The goal is to explore shopping trends, segment customers, and generate valuable business insights for retail businesses.
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 > This project was completed as a Guided Project to practice Data Analyst skills including Python, SQL, and Power BI.
 
 ---
