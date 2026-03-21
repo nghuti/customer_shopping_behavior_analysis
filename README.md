@@ -95,8 +95,10 @@ Built a 3-page interactive Dashboard:
 ### Page 3 - Customer Analysis
 <img width="1211" height="704" alt="image" src="https://github.com/user-attachments/assets/867118f9-bccf-42d6-bcaf-0da4cae816e7" />
 
-## 👤 Author
+## 📜 License & Credits
 
-**Tri Nguyen** | Beginner Data Analyst
+This project is based on a guided project by **Amlan Mohanty**.  
+Licensed under the [MIT License](LICENSE).
 
-> This project was completed as a Guided Project to practice Data Analyst skills including Python, SQL, and Power BI.
+> This repository contains my own implementation, analysis, and dashboard  
+> built upon the original guided project structure.
