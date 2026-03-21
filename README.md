@@ -98,7 +98,7 @@ Built a 3-page interactive Dashboard:
 ## 📜 License & Credits
 
 This project is based on a guided project by **Amlan Mohanty**.  
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE.md).
 
 > This repository contains my own implementation, analysis, and dashboard  
 > built upon the original guided project structure.
