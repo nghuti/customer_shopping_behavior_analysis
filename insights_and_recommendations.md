@@ -5,7 +5,7 @@
 - **Clothing** is the top-performing category in both revenue ($104K) and sales count (1,700+ transactions)
 - **Blouse** is the best-selling and highest-revenue product
 - **Jewelry** has the highest average review rating (3.86)
-- **Young Adults** contribute the most to total revenue
+- **Adults** contribute the most to total revenue
 - **79%** of customers are classified as Loyal (more than 15 previous purchases)
 - Only **27%** of customers have an active subscription
 - **41.91%** of all orders were purchased with a discount
